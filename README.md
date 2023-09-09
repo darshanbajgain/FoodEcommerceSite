@@ -37,5 +37,6 @@
     Fill in the required payment information.
     Click "Place Order" to complete your order.
     
-Help & Reference :
-https://www.youtube.com/playlist?list=PLD9SRxG6ST3HignjcXUX6w8RcT0_b5ihV
+# Help & Reference :
+    For Adding items to cart.html page
+    https://www.youtube.com/playlist?list=PLD9SRxG6ST3HignjcXUX6w8RcT0_b5ihV
