@@ -1,5 +1,5 @@
 ### FoodEcommerceSite
-### Live Preview link :
+### Live Preview link : https://momosandmore-bydarshanbajgain.netlify.app/
 
 ### Simple Food Ordering Ecommerce Site
 This is a simple food ordering ecommerce site created using HTML, CSS, and JavaScript. It's designed for your ecommerce project work, 
