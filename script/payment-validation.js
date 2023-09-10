@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
         if (!name || !email || !address || !paymentMethod) {
             alert("Please fill out all fields and select a payment method.");
         } else {
-            // Here, you can add your payment processing logic based on the selected method
+            // we can add your payment processing logic based on the selected method
             alert("Payment processing logic goes here.");
         }
     });

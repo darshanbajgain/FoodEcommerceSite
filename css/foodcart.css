@@ -1,7 +1,7 @@
 .cart-section {
     margin-top: 2%;
     overflow-x: auto; /* Add horizontal scroll for small screens */
-    min-height: 60vh;
+    min-height: 70vh;
 }
 .cart-section h1{
     text-align: center;

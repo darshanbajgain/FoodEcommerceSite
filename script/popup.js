@@ -23,7 +23,7 @@ function addToCart(event) {
 
     // You can optionally add a delay to hide the message after a few seconds
     setTimeout(function () {
-        // Hide the itemAddedPopup by changing its opacity
+    // Hide the itemAddedPopup by changing its opacity
         itemAddedPopup.style.opacity = "0";
-    }, 2000); // Adjust the delay (in milliseconds) as needed
+    }, 500); // Adjust the delay (in milliseconds) as needed
 }
