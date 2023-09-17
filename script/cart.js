@@ -131,7 +131,7 @@ function displayCart() {
          productContainer.innerHTML += `
                <tr>
                    <td>
-                       <img src="./assest/${item.tag}.jpg" alt="item-img">
+                       <img src="../assest/${item.tag}.jpg" alt="item-img">
                        <br>
                        ${item.name}
                    </td>
